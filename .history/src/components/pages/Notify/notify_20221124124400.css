@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: black;
+    font-size: 2.5rem;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.sendMsg{
+    margin-top: 4%;
+    color: black;
+    margin-left: 5%;
+}
+
+textarea{
+    color: black;
+    width: 40%;
+    outline: none;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: #ebeff3;
+    border-radius: 10px;
+}
+
+button{
+    border: 1px solid black;
+    width: 20%;
+    text-align: center;
+    margin-top: 2%;
+    color: ;
+    padding: 5px;
+    background-color: #478ee1;
+
+}

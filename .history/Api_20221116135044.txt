@@ -1,0 +1,65 @@
+Admin { 
+    admin signin✅
+    send otp❌
+    change password❌
+}
+
+Banner {
+    Get Banner✅
+    Add Banner✅
+    Delete Banner✅
+}
+Category { 
+    Get Category✅
+    Add Category✅
+    Update Category✅
+    Delete Category✅
+}
+Brand{
+     Get Brand  ✅
+     Add Brand  ✅
+     Delete Brand  ✅
+     Edit Brand  ✅
+}
+Blog{
+    Get Blog✅
+    Add Blog ✅
+    Delete Blog✅
+    Edit Blog✅
+}
+
+//------------------------------------------------------------------------------------------------------------------
+
+Product{
+    Get Product✅
+    Delete Product✅
+    Add Product(api Error)
+}
+
+Service type {
+    get Service type ✅
+    Add Service type ✅
+    Edit Service type ✅
+    Delete Service tyep  ✅
+}
+
+Service{
+    Get Service✅
+    Add Service✅
+    Delete Service✅
+    Edit Service✅
+}
+
+Periodic Service {
+    Get Periodic Service✅
+    Add Perodic Service (api error)
+}
+
+Seller { 
+    Get Seller✅
+    Add Seller✅
+    Update seller Profile (api error)  
+}
+user{
+    Get User 
+}

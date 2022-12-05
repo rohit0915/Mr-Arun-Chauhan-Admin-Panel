@@ -1,0 +1,25 @@
+Admin { 
+    admin signin✅
+    send otp❌
+    change password❌
+}
+
+Banner {
+    Get Banner✅
+    Add Banner✅
+    Delete Banner✅
+}
+Category { 
+    Get Category✅
+    Add Category✅
+    Update Category✅
+    Delete Category✅
+}
+Brand{
+     Get Brand  ✅
+     Add Brand  ✅
+     Delete Brand  ✅
+     Delete Brand  ✅
+     Edit Brand
+
+}

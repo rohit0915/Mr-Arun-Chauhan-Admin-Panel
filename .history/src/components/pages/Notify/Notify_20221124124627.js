@@ -1,0 +1,23 @@
+/** @format */
+
+import React from "react";
+import HOC from "../../layout/HOC";
+import "./notify.css";
+
+const Notify = () => {
+  return (
+    <>
+      <h1 id="sendMsg">Push Notification</h1>
+
+      <div className="sendMsg">
+        <form>
+          <textarea placeholder="Write your message here" />
+          <br />
+          <button id="sendMsgBtn">Submit</button>
+        </form>
+      </div>
+    </>
+  );
+};
+
+export default HOC(Notify);
